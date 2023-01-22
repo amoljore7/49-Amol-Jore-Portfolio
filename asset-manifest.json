@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/49-Amol-Jore-Portfolio/static/css/main.e09eb1e5.css",
-    "main.js": "/49-Amol-Jore-Portfolio/static/js/main.64b03add.js",
+    "main.js": "/49-Amol-Jore-Portfolio/static/js/main.5cce05ff.js",
     "static/media/omnifood.png": "/49-Amol-Jore-Portfolio/static/media/omnifood.18fc63e7751bfbe53a8b.png",
+    "static/media/storybook.png": "/49-Amol-Jore-Portfolio/static/media/storybook.4d5b497e70e9ab67838b.png",
     "static/media/weatherAPP.png": "/49-Amol-Jore-Portfolio/static/media/weatherAPP.b3a1daf1aed6b8f901bd.png",
     "static/media/ic_mobile_banner.png": "/49-Amol-Jore-Portfolio/static/media/ic_mobile_banner.31129875d085a3370c03.png",
     "static/media/i18.png": "/49-Amol-Jore-Portfolio/static/media/i18.38fa5538cd190645ac74.png",
@@ -50,10 +51,10 @@
     "static/media/django.svg": "/49-Amol-Jore-Portfolio/static/media/django.0779fca292c0a723b464bcb7534f802c.svg",
     "static/media/material-ui-1.svg": "/49-Amol-Jore-Portfolio/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
     "main.e09eb1e5.css.map": "/49-Amol-Jore-Portfolio/static/css/main.e09eb1e5.css.map",
-    "main.64b03add.js.map": "/49-Amol-Jore-Portfolio/static/js/main.64b03add.js.map"
+    "main.5cce05ff.js.map": "/49-Amol-Jore-Portfolio/static/js/main.5cce05ff.js.map"
   },
   "entrypoints": [
     "static/css/main.e09eb1e5.css",
-    "static/js/main.64b03add.js"
+    "static/js/main.5cce05ff.js"
   ]
 }
