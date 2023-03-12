@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/49-Amol-Jore-Portfolio/static/css/main.e09eb1e5.css",
-    "main.js": "/49-Amol-Jore-Portfolio/static/js/main.c6d68c4b.js",
+    "main.js": "/49-Amol-Jore-Portfolio/static/js/main.ed1235bd.js",
+    "static/js/787.512dd3f2.chunk.js": "/49-Amol-Jore-Portfolio/static/js/787.512dd3f2.chunk.js",
     "static/media/omnifood.png": "/49-Amol-Jore-Portfolio/static/media/omnifood.18fc63e7751bfbe53a8b.png",
     "static/media/storybook.png": "/49-Amol-Jore-Portfolio/static/media/storybook.4d5b497e70e9ab67838b.png",
     "static/media/weatherAPP.png": "/49-Amol-Jore-Portfolio/static/media/weatherAPP.b3a1daf1aed6b8f901bd.png",
@@ -14,6 +15,7 @@
     "static/media/logow.webp": "/49-Amol-Jore-Portfolio/static/media/logow.8fcf5de9466af7e11d16.webp",
     "static/media/docker.png": "/49-Amol-Jore-Portfolio/static/media/docker.c5f325f0ab42483cbd84.png",
     "static/media/shopingHub.png": "/49-Amol-Jore-Portfolio/static/media/shopingHub.b8b2e5592926f95210e4.png",
+    "service-worker.js": "/49-Amol-Jore-Portfolio/service-worker.js",
     "static/media/slide3.webp": "/49-Amol-Jore-Portfolio/static/media/slide3.ea32b5ab7ffc78454ce0.webp",
     "static/media/background.webp": "/49-Amol-Jore-Portfolio/static/media/background.f68146215cd63c0647c5.webp",
     "static/media/tic-tac-toe.png": "/49-Amol-Jore-Portfolio/static/media/tic-tac-toe.b55cd7900f3afbcbfe88.png",
@@ -42,19 +44,20 @@
     "static/media/go-6.svg": "/49-Amol-Jore-Portfolio/static/media/go-6.4c88fbf92cd36c4790582de373b6ee4f.svg",
     "static/media/python.svg": "/49-Amol-Jore-Portfolio/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
     "static/media/bootstrap-4.svg": "/49-Amol-Jore-Portfolio/static/media/bootstrap-4.997c463dca63c915b9a51f1caedef8e1.svg",
+    "index.html": "/49-Amol-Jore-Portfolio/index.html",
     "static/media/github.svg": "/49-Amol-Jore-Portfolio/static/media/github.740db6be1c6248ce6abab3577896d4d9.svg",
     "static/media/html-5.svg": "/49-Amol-Jore-Portfolio/static/media/html-5.821ba738922e8952e57422f7b8a20362.svg",
     "static/media/javascript.svg": "/49-Amol-Jore-Portfolio/static/media/javascript.ba40d6a9629bf521391e764a593f9df3.svg",
-    "index.html": "/49-Amol-Jore-Portfolio/index.html",
     "static/media/typescript.svg": "/49-Amol-Jore-Portfolio/static/media/typescript.a6305a733dd55243980aec55f96f70c5.svg",
     "static/media/git-icon.svg": "/49-Amol-Jore-Portfolio/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
     "static/media/django.svg": "/49-Amol-Jore-Portfolio/static/media/django.0779fca292c0a723b464bcb7534f802c.svg",
     "static/media/material-ui-1.svg": "/49-Amol-Jore-Portfolio/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
     "main.e09eb1e5.css.map": "/49-Amol-Jore-Portfolio/static/css/main.e09eb1e5.css.map",
-    "main.c6d68c4b.js.map": "/49-Amol-Jore-Portfolio/static/js/main.c6d68c4b.js.map"
+    "main.ed1235bd.js.map": "/49-Amol-Jore-Portfolio/static/js/main.ed1235bd.js.map",
+    "787.512dd3f2.chunk.js.map": "/49-Amol-Jore-Portfolio/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e09eb1e5.css",
-    "static/js/main.c6d68c4b.js"
+    "static/js/main.ed1235bd.js"
   ]
 }
