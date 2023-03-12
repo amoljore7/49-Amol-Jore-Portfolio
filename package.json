@@ -12,6 +12,7 @@
     "react": "^16.13.1",
     "react-bootstrap": "^1.5.1",
     "react-dom": "^16.14.0",
+    "react-ios-pwa-prompt": "^1.8.4",
     "react-parallax": "^3.0.3",
     "react-particles-js": "^2.7.1",
     "react-reveal": "^1.2.2",

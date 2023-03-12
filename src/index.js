@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from "react-dom";
+import PWAPrompt from 'react-ios-pwa-prompt';
 import './index.css';
 import App from './App';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
@@ -10,6 +11,12 @@ import { theme } from "./themes/theme";
 ReactDOM.render(
   <ThemeProvider theme={theme}>
     <App />
+    <PWAPrompt
+    promptOnVisit={1}
+    timesToShow={3}
+    copyClosePrompt="Close"
+    permanentlyHideOnDismiss={false}
+  />
   </ThemeProvider>,
   document.getElementById("root")
 );
