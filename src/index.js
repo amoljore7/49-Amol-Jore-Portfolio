@@ -12,11 +12,11 @@ ReactDOM.render(
   <ThemeProvider theme={theme}>
     <App />
     <PWAPrompt
-    promptOnVisit={1}
-    timesToShow={3}
-    copyClosePrompt="Close"
-    permanentlyHideOnDismiss={false}
-  />
+      promptOnVisit={1}
+      timesToShow={3}
+      copyClosePrompt="Close"
+      permanentlyHideOnDismiss={false}
+    />
   </ThemeProvider>,
   document.getElementById("root")
 );
