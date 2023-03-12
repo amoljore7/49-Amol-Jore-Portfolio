@@ -1,14 +1,24 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "reactfolio",
+  "version": "1.0.0",
   "private": true,
+  "homepage": "https://amoljore7.github.io/49-Amol-Jore-Portfolio/",
   "dependencies": {
+    "@merc/react-timeline": "^0.1.42",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "bootstrap": "^4.5.2",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.5.1",
+    "react-dom": "^16.14.0",
+    "react-parallax": "^3.0.3",
+    "react-particles-js": "^2.7.1",
+    "react-reveal": "^1.2.2",
+    "react-scripts": "^5.0.1",
+    "react-tilt": "^0.1.4",
+    "styled-components": "^5.1.1",
+    "typewriter-effect": "^2.13.1",
     "web-vitals": "^2.1.4",
     "workbox-background-sync": "^6.5.4",
     "workbox-broadcast-update": "^6.5.4",
@@ -27,7 +37,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,5 +58,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
